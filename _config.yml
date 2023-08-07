@@ -9,7 +9,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://pages.uoregon.edu/cew/mccosh
+url: https://pages.uoregon.edu
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /cew/mccosh
@@ -25,9 +25,9 @@ title: David McCosh_selected works
 tagline: McCosh works from the University of Oregon records
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is an experimental template that directly parses CSVs to create small digital collection exhibits on GitHub Pages designed for teaching digital library skills. Work in Progress!"
+description: "This is a working example site for the works of David McCosh"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Chris White / Danielle Knapp
 
 ##########
 # COLLECTION SETTINGS
@@ -43,10 +43,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTIJWLVwtRrEP1sN3l
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "University of Oregon, Jordan Schnitzer Museum of Art"
+organization-link: https://jsmacollection.uoregon.edu/mwebcgi/mweb?request=home
+#organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+#organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 
 ##########
