@@ -37,8 +37,7 @@ author: Chris White / Danielle Knapp
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?gid=0&single=true&output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/master/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTIJWLVwtRrEP1sN3l6CpZGOrMeDjCe_x_25sXnVewyf8E791EUTTmZ02IOm2jYkeFrnmHHp1h1qY4f/pub?gid=0&single=true&output=csv
-
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTIJWLVwtRrEP1sN3l6CpZGOrMeDjCe_x_25sXnVewyf8E791EUTTmZ02IOm2jYkeFrnmHHp1h1qY4f/pub?gid=533558647&single=true&output=csv
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
